@@ -27,5 +27,5 @@ This `main.py` script performs an analysis of order returns based on order and r
 
 ## Output
 
-- The output files are stored in Google Sheets and Looker Studio for analytics visualization:
+- The output files that are stored in output files directory are also stored in Google Sheets for analytics visualization in Looker Studio
 
