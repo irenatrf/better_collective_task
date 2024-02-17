@@ -1,4 +1,4 @@
-# Order Return Analysis
+# Order Return Analysis Assignment for Better Collective
 
 This `main.py` script performs an analysis of order returns based on order and return datasets for the years 2015 to 2018.
 
@@ -29,3 +29,8 @@ This `main.py` script performs an analysis of order returns based on order and r
 
 - The output files that are stored in output files directory are also stored in Google Sheets for analytics visualization in Looker Studio
 
+Google Sheets 
+https://docs.google.com/spreadsheets/d/1fjMzHA_2S9X9I0ll5rPDwpzzN-i_e0sHIsIK-uZfP4Y/edit?usp=sharing
+
+Looker Studio
+https://lookerstudio.google.com/reporting/f7235198-f2f2-4ab6-b1e1-323be194f8b5
